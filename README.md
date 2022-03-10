@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rbuella 
 - 👀 I’m interested in editing and developing scripts
-- 🌱 I’m currently learning at editing vehicles,MLO,clothes and making scripts
+- 🌱 I’m currently learning at editing vehicles,Maps,clothes and making scripts
 
 
 <!---
