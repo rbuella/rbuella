@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Leon Maximus 
 - 👀 I’m a Verified Developer Of Fivem Philippines 
-- I’m a Verified Developer Of Fivem Philippines 
 
 - Manage all types of framework: ESX
 - Fix any FiveM script issues
