@@ -5,7 +5,7 @@
 [![rbuella](https://cdn.discordapp.com/attachments/924836260097454092/1019976841307639828/OASIS_ROUND_FULL_1.png?width=382&height=382)][github]
 
 ### Founder of Hakdog Utilities:
-[![rbuella](https://cdn.discordapp.com/attachments/924836260097454092/1019976361118552125/Hakdog.png?width=382&height=382)][discord]
+[![rbuella](https://cdn.discordapp.com/attachments/924836260097454092/1019976361118552125/Hakdog.png?width=382&height=382)][DevelopmentTeam]
 
 [![discord](https://cdn.discordapp.com/attachments/924836260097454092/1019971228460662785/Screenshot_2251.png)][discord]
 
@@ -28,10 +28,9 @@
 
 <img align="left" alt="Leon's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rbuella&show_icons=true&theme=buefy&locale=en&title_color=a600ff&icon_color=ff0088&text_color=32004d" />
 
+[DevelopmentTeam]: https://discord.io/HakdogUtilities
 [discord]: https://discordapp.com/users/742053453500645427
 [repos]: https://github.com/rbuella?tab=repositories
 [github]: https://github.com/rbuella
 
 
-Hakdog Utilities 
-https://discord.io/HakdogUtilities
