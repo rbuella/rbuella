@@ -10,7 +10,7 @@
 [![rbuella](https://cdn.discordapp.com/attachments/924836260097454092/1019976361118552125/Hakdog.png?width=382&height=382)][DevelopmentTeam]
 
 ---
-
+### Leon's Discord:
 [![discord](https://cdn.discordapp.com/attachments/924836260097454092/1019971228460662785/Screenshot_2251.png)][discord]
 
 ----
