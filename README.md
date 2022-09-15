@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Leon Maximus 
 - I’m a Verified Developer Of Fivem Philippines 
 
-[![rbuella]([https://i.imgur.com/X5ocARk.png](https://media.discordapp.net/attachments/1013682500289183760/1018895165093580861/OASIS_ROUND_O.png?width=382&height=382))][github]
-[![Discord]([https://img.shields.io/badge/Discord-Tigo%239999-7289DA?logo=discord&style=for-the-badge](https://cdn.discordapp.com/attachments/924836260097454092/1019971228460662785/Screenshot_2251.png))][discord]
+[![rbuella](https://media.discordapp.net/attachments/1013682500289183760/1018895165093580861/OASIS_ROUND_O.png?width=382&height=382)][github]
+[![Discord]([https://img.shields.io/badge/Discord-Tigo%239999-7289DA?logo=discord&style=for-the-badge](https://cdn.discordapp.com/attachments/924836260097454092/1019971228460662785/Screenshot_2251.png)][discord]
 
 
 ### Languages and Tools:
