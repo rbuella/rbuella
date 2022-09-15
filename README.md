@@ -1,8 +1,11 @@
 - 👋 Hi, I’m Leon Maximus 
 - I’m a Verified Developer Of Fivem Philippines 
 
-[![rbuella](https://media.discordapp.net/attachments/1013682500289183760/1018895165093580861/OASIS_ROUND_O.png?width=382&height=382)][github]
-[![Founder and Developer of Oasis Roleplay](https://cdn.discordapp.com/attachments/924836260097454092/1019971228460662785/Screenshot_2251.png)][discord]
+### Founder and Developer of Oasis Roleplay:
+[![rbuella](https://media.discordapp.net/attachments/1013682500289183760/1018895164623822878/OASIS_ROUND_FULL.png?width=382&height=382)][github]
+
+
+[![discord](https://cdn.discordapp.com/attachments/924836260097454092/1019971228460662785/Screenshot_2251.png)][discord]
 
 
 ### Languages and Tools:
