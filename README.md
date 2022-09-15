@@ -25,11 +25,28 @@
 
 ---
 
-
-<img align="left" alt="Leon's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rbuella&show_icons=true&theme=buefy&locale=en&title_color=4183c4ff&icon_color=4183c4&text_color=4183c4" />
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbuella&theme=dark&hide_langs_below=1" />
+<a href="https://github.com/rbuella">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsAmmarB&theme=dark&hide_langs_below=1" />
 </a>
+
+<a href="https://github.com/rbuella">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=rbuella&show_icons=true&theme=dark&line_height=27" alt="Leon Maximus's github statistics"/>
+</a>
+
+
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="75%" align="center">
+        <span>CFX.re</span><br><br><br>
+        <img height="64px" src="https://external-preview.redd.it/uASWQ3_JWYtyej9q2M6my9EnwJZ8vv2NxvVWhB24B6o.jpg?auto=webp&s=b174a0d3def4beadf78b97ecf3aaccc2f48621e5">
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
+
 
 [DevelopmentTeam]: https://discord.gg/2CKYaSYShC
 [discord]: https://discordapp.com/users/742053453500645427
