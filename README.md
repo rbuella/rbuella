@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Leon Maximus 
 - I’m a Verified Developer Of Fivem Philippines 
 
-[![Leon Maximus]([https://i.imgur.com/X5ocARk.png](https://media.discordapp.net/attachments/1013682500289183760/1018895165093580861/OASIS_ROUND_O.png?width=382&height=382))][github]
+[![rbuella]([https://i.imgur.com/X5ocARk.png](https://media.discordapp.net/attachments/1013682500289183760/1018895165093580861/OASIS_ROUND_O.png?width=382&height=382))][github]
 [![Discord]([https://img.shields.io/badge/Discord-Tigo%239999-7289DA?logo=discord&style=for-the-badge](https://cdn.discordapp.com/attachments/924836260097454092/1019971228460662785/Screenshot_2251.png))][discord]
 
 
@@ -29,43 +29,6 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 [repos]: https://github.com/rbuella?tab=repositories
 [github]: https://github.com/rbuella
 
-
-
-- 👋 Hi, I’m Leon Maximus 
-- 👀 I’m a Verified Developer Of Fivem Philippines 
-
-- Manage all types of framework: ESX
-- Fix any FiveM script issues
-- Requested scripts
-- FIVEM DEVELOPMENT (QUALITY SERVICE!)
-- Affordable server packs (PLUG N PLAY | ESX LEGACY or ESSENTIALMODE)
-- FiveM customs (Car Modifying, EUP/Clothes, etc..) 
-- FiveM custom scripts
-
-SERVICES AVAILABLE:
-• Manage all types of framework: ESX
-• Fix any FiveM script issues
-• Requested scripts
-• FiveM Development (QUALITY SERVICE!)
-• FiveM Map Edit/request/ fix
-• Optimized Script
-• Affordable server packs (PLUG N PLAY | ESX LEGACY or ESSENTIAL MODE)
-• FiveM customs (Car Modifying, EUP/Clothes, etc..) 
-• FiveM custom scripts
-
-Released Unique Script by me
-
-LEON REDZONE
-https://streamable.com/rjxkj0
-
-Script Information & Features
-
-- Only police can use for the command of (/redzone and /greenzone)
-- Stable 0.00ms ~ 0.0ms Optimization
-- Multiple Notifications
-
-I have a group of development Team who understand any types of version of ESX.
-Click this link for more info 
 
 Hakdog Utilities 
 https://discord.io/HakdogUtilities
