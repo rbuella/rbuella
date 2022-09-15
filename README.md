@@ -2,7 +2,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbuella&theme=dark&hide_langs_below=1" />
 </a>
 
-<a href="https://github.com/ItsAmmarB">
+<a href="https://github.com/rbuella">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rbuella&show_icons=true&theme=dark&line_height=27" alt="Shubhamdeep's github stats"/>
 </a>
 
