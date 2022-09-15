@@ -1,26 +1,34 @@
-<a href="https://github.com/rbuella">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbuella&theme=dark&hide_langs_below=1" />
-</a>
+- 👋 Hi, I’m Leon Maximus 
+- I’m a Verified Developer Of Fivem Philippines 
 
-<a href="https://github.com/rbuella">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=rbuella&show_icons=true&theme=dark&line_height=27" alt="Shubhamdeep's github stats"/>
-</a>
-
-<!--
-
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="75%" align="center">
-        <span>CFX.re</span><br><br><br>
-        <img height="64px" src="https://external-preview.redd.it/uASWQ3_JWYtyej9q2M6my9EnwJZ8vv2NxvVWhB24B6o.jpg?auto=webp&s=b174a0d3def4beadf78b97ecf3aaccc2f48621e5">
-      </td>
-    </tr>
-  </tbody>
-</table>
+[![Leon Maximus]([https://i.imgur.com/X5ocARk.png](https://media.discordapp.net/attachments/1013682500289183760/1018895165093580861/OASIS_ROUND_O.png?width=382&height=382))][github]
+[![Discord]([https://img.shields.io/badge/Discord-Tigo%239999-7289DA?logo=discord&style=for-the-badge](https://cdn.discordapp.com/attachments/924836260097454092/1019971228460662785/Screenshot_2251.png))][discord]
 
 
--->
+### Languages and Tools:
+
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][repos]
+[<img align="left" alt="Lua" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png" />][repos]
+src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png" />][repos]
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][repos]
+[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][repos]
+[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][repos]
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][repos]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][repos]
+
+<br />
+<br />
+
+---
+
+### 📕 STATS
+
+<img align="left" alt="Leon's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rbuella&show_icons=true&theme=buefy&locale=en&title_color=a600ff&icon_color=ff0088&text_color=32004d" />
+
+[discord]: https://discordapp.com/users/742053453500645427
+[repos]: https://github.com/rbuella?tab=repositories
+[github]: https://github.com/rbuella
+
 
 
 - 👋 Hi, I’m Leon Maximus 
