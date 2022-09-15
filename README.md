@@ -4,11 +4,16 @@
 ### Founder and Developer of Oasis Roleplay:
 [![rbuella](https://cdn.discordapp.com/attachments/924836260097454092/1019976841307639828/OASIS_ROUND_FULL_1.png?width=382&height=382)][github]
 
+----
+
 ### Founder of Hakdog Utilities:
 [![rbuella](https://cdn.discordapp.com/attachments/924836260097454092/1019976361118552125/Hakdog.png?width=382&height=382)][DevelopmentTeam]
 
+---
+
 [![discord](https://cdn.discordapp.com/attachments/924836260097454092/1019971228460662785/Screenshot_2251.png)][discord]
 
+----
 
 ### Languages and Tools:
 
@@ -33,9 +38,7 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rbuella&show_icons=true&theme=dark&line_height=27" alt="Leon Maximus's github statistics"/>
 </a>
 
-
-
-
+---
 
 [DevelopmentTeam]: https://discord.gg/2CKYaSYShC
 [discord]: https://discordapp.com/users/742053453500645427
