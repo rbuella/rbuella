@@ -5,9 +5,9 @@
 [![rbuella](https://media.discordapp.net/attachments/1013682500289183760/1018895164623822878/OASIS_ROUND_FULL.png?width=382&height=382)][github]
 
 ### Founder of Hakdog Utilities:
-[![rbuella](https://cdn.discordapp.com/attachments/988820570298777721/988820634605867008/Hakdog.png?width=382&height=382)
+[![rbuella](https://cdn.discordapp.com/attachments/988820570298777721/988820634605867008/Hakdog.png?width=382&height=382)][discord]
 
-[![discord](https://cdn.discordapp.com/attachments/924836260097454092/1019971228460662785/Screenshot_2251.png)
+[![discord](https://cdn.discordapp.com/attachments/924836260097454092/1019971228460662785/Screenshot_2251.png)][discord]
 
 
 ### Languages and Tools:
