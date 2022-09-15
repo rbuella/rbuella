@@ -28,7 +28,7 @@
 
 <img align="left" alt="Leon's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rbuella&show_icons=true&theme=buefy&locale=en&title_color=4183c4ff&icon_color=4183c4&text_color=4183c4" />
 
-<img align="left" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbuella&layout=compact&theme=dracula&hide_border=true" />
+<img align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbuella&layout=compact&theme=dracula&hide_border=true" />
 
 [DevelopmentTeam]: https://discord.gg/2CKYaSYShC
 [discord]: https://discordapp.com/users/742053453500645427
