@@ -7,7 +7,7 @@
 ### Founder of Hakdog Utilities:
 [![rbuella](https://cdn.discordapp.com/attachments/988820570298777721/988820634605867008/Hakdog.png?width=382&height=382)
 
-[![discord](https://cdn.discordapp.com/attachments/924836260097454092/1019971228460662785/Screenshot_2251.png)][discord]
+[![discord](https://cdn.discordapp.com/attachments/924836260097454092/1019971228460662785/Screenshot_2251.png)
 
 
 ### Languages and Tools:
