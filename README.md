@@ -2,7 +2,7 @@
 - I’m a Verified Developer Of Fivem Philippines 
 
 ### Founder and Developer of Oasis Roleplay:
-[![rbuella](https://media.discordapp.net/attachments/1013682500289183760/1018895164623822878/OASIS_ROUND_FULL.png?width=382&height=382)][github]
+[![rbuella](https://cdn.discordapp.com/attachments/924836260097454092/1019976841307639828/OASIS_ROUND_FULL_1.png?width=382&height=382)][github]
 
 ### Founder of Hakdog Utilities:
 [![rbuella](https://cdn.discordapp.com/attachments/924836260097454092/1019976361118552125/Hakdog.png?width=382&height=382)][discord]
