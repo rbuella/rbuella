@@ -28,7 +28,7 @@
 
 <img align="left" alt="Leon's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rbuella&show_icons=true&theme=buefy&locale=en&title_color=a600ff&icon_color=ff0088&text_color=32004d" />
 
-[DevelopmentTeam]: https://discordapp/servers/982290566308057198
+[DevelopmentTeam]: https://discordapp/users/982290566308057198
 [discord]: https://discordapp.com/users/742053453500645427
 [repos]: https://github.com/rbuella?tab=repositories
 [github]: https://github.com/rbuella
