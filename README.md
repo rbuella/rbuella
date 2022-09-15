@@ -1,12 +1,27 @@
-<p align = 'center'>
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevZiee&layout=compact&theme=dracula&hide_border=true"
-  />
-  <br>
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=rbuella&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_title=true&hide_border=true"
-  />
-</p>
+<a href="https://github.com/rbuella">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbuella&theme=dark&hide_langs_below=1" />
+</a>
+
+<a href="https://github.com/ItsAmmarB">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=rbuella&show_icons=true&theme=dark&line_height=27" alt="Shubhamdeep's github stats"/>
+</a>
+
+<!--
+
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="75%" align="center">
+        <span>CFX.re</span><br><br><br>
+        <img height="64px" src="https://external-preview.redd.it/uASWQ3_JWYtyej9q2M6my9EnwJZ8vv2NxvVWhB24B6o.jpg?auto=webp&s=b174a0d3def4beadf78b97ecf3aaccc2f48621e5">
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
+-->
+
 
 - 👋 Hi, I’m Leon Maximus 
 - 👀 I’m a Verified Developer Of Fivem Philippines 
