@@ -29,7 +29,7 @@
 <img align="left" alt="Leon's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rbuella&show_icons=true&theme=buefy&locale=en&title_color=4183c4ff&icon_color=4183c4&text_color=4183c4" />
 
 <a href="https://github.com/rbuella">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbuella&theme=dark&hide_langs_below=1" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbuella&theme=dark&hide_langs_below=1" />
 </a>
 
 [DevelopmentTeam]: https://discord.gg/2CKYaSYShC
