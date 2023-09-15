@@ -1,9 +1,6 @@
 - 👋 Hi, I’m Leon Maximus 
 - I’m a Verified Developer Of Fivem Philippines 
 
-### Founder and Developer of Oasis Roleplay:
-[![rbuella](https://cdn.discordapp.com/attachments/924836260097454092/1019976841307639828/OASIS_ROUND_FULL_1.png?width=382&height=382)][github]
-
 ----
 
 ### Founder of Hakdog Utilities:
