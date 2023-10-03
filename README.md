@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Leon Maximus 
-- I’m a Verified Developer Of Fivem Philippines 
+I’m a Verified Developer Of Fivem Philippines 
 
 ----
 
