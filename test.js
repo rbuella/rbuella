@@ -1,2 +1,0 @@
-// sample 
-console.log("test")
