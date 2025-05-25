@@ -3,7 +3,7 @@ I’m a Verified Developer Of Fivem Philippines
 ----
 
 ### Founder of Hakdog Utilities:
-[![rbuella](https://cdn.discordapp.com/attachments/924836260097454092/1019976361118552125/Hakdog.png?width=382&height=382)][DevelopmentTeam]
+[![rbuella]([https://cdn.discordapp.com/attachments/924836260097454092/1019976361118552125/Hakdog.png?width=382&height=382](https://media.discordapp.net/attachments/1104397238580547627/1315486913809092718/HU.png?ex=68346968&is=683317e8&hm=b6a27a1eaa2e3fa8a3dc2d595b066930afedde3d556abc97a4657aec250a988c&=&format=webp&quality=lossless&width=747&height=747))][DevelopmentTeam]
 
 ---
 ### Leon's Discord:
