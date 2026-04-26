@@ -49,7 +49,7 @@ I’m a Verified Developer Of Fivem Philippines
 
 ---
 
-[DevelopmentTeam]: https://discord.gg/2CKYaSYShC
+[DevelopmentTeam]: https://discord.gg/kKkxXA6xRC
 [discord]: https://discordapp.com/users/742053453500645427
 [repos]: https://github.com/rbuella?tab=repositories
 [github]: https://github.com/rbuella
