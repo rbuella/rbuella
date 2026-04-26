@@ -21,14 +21,14 @@
   <tr>
     <td align="center" width="50%">
       <a href="https://discord.gg/kKkxXA6xRC">
-        <img src="https://media.discordapp.net/attachments/1104397238580547627/1315486913809092718/HU.png?ex=68346968&is=683317e8&hm=b6a27a1eaa2e3fa8a3dc2d595b066930afedde3d556abc97a4657aec250a988c&" width="150px" style="border-radius: 20px; box-shadow: 0px 0px 15px rgba(247, 179, 43, 0.3);" /><br />
+        <img src="https://r2.fivemanage.com/fzP6KrKEDoTS9EDkfg8Xr/MCD_LOGO-Copy.png" width="150px" style="border-radius: 20px; box-shadow: 0px 0px 15px rgba(247, 179, 43, 0.3);" /><br />
         <b>Master Core Development</b><br/>
         <i>Current Primary Project</i>
       </a>
     </td>
     <td align="center" width="50%">
       <a href="https://discordapp.com/users/742053453500645427">
-        <img src="https://cdn.discordapp.com/attachments/924836260097454092/1019971228460662785/Screenshot_2251.png" width="150px" style="border-radius: 20px;" /><br />
+        <img src="https://r2.fivemanage.com/fzP6KrKEDoTS9EDkfg8Xr/MCD_LOGO-Copy.png" width="150px" style="border-radius: 20px;" /><br />
         <b>Leon's Personal Discord</b><br/>
         <i>Direct Contact</i>
       </a>
@@ -77,4 +77,3 @@
 </p>
 
 </div>
-
