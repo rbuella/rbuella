@@ -21,14 +21,14 @@
   <tr>
     <td align="center" width="50%">
       <a href="https://discord.gg/kKkxXA6xRC">
-        <img src="https://r2.fivemanage.com/fzP6KrKEDoTS9EDkfg8Xr/MCD_LOGO-Copy.png" width="150px" style="border-radius: 20px; box-shadow: 0px 0px 15px rgba(247, 179, 43, 0.3);" /><br />
+        <img src="https://media.discordapp.net/attachments/1390005382277238856/1498091941999677590/MCD_BG.png?ex=69efe658&is=69ee94d8&hm=e076a661e56910a0249f0d2ff29bfcb461d762cbcefccff9cd6e987b9d989580&=&format=webp&quality=lossless&width=928&height=928" width="150px" style="border-radius: 20px; box-shadow: 0px 0px 15px rgba(247, 179, 43, 0.3);" /><br />
         <b>Master Core Development</b><br/>
         <i>Current Primary Project</i>
       </a>
     </td>
     <td align="center" width="50%">
       <a href="https://discordapp.com/users/742053453500645427">
-        <img src="https://r2.fivemanage.com/fzP6KrKEDoTS9EDkfg8Xr/MCD_LOGO-Copy.png" width="150px" style="border-radius: 20px;" /><br />
+        <img src="https://media.discordapp.net/attachments/1390005382277238856/1498091941999677590/MCD_BG.png?ex=69efe658&is=69ee94d8&hm=e076a661e56910a0249f0d2ff29bfcb461d762cbcefccff9cd6e987b9d989580&=&format=webp&quality=lossless&width=928&height=928" width="150px" style="border-radius: 20px;" /><br />
         <b>Leon's Personal Discord</b><br/>
         <i>Direct Contact</i>
       </a>
